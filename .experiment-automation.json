@@ -1,0 +1,10 @@
+{
+  "baseline_branch": "baseline",
+  "component": "gradle",
+  "experiment_name": "experiment-gradle-9.9.2",
+  "new_version": "9.9.2",
+  "old_version": "9.9.1",
+  "renovate_pr_number": 37,
+  "renovate_repo": "cdsap/telltale-experiment-automation",
+  "variant_branch": "gradle-9.9.2"
+}
